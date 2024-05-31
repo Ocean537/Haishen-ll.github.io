@@ -35,15 +35,15 @@ Here is **Lei Liu (HaiShen, 刘磊)**. I am a 4-th year PhD student at The Chine
 ---
 
 ## News and Updates
-- **05/2024: ** One paper accepted by ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2024.
-- **03/2024: ** One paper accepted by Computers in Biology and Medicine (CBM) 2024.
-- **01/2024: ** One paper accepted by IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP) 2024.
-- **07/2023: ** One paper accepted by ACM International Conference on Multimedia (ACM-MM) 2023.
-- **07/2023: ** One paper accepted by IEEE/CVF International Conference on Computer Vision (ICCV) 2023.
-- **02/2023: ** Two papers accepted by IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2023.
-- **11/2021: ** One paper accepted by International Conference on Tools with Artificial Intelligence (ICTAI) 2021.
-- **05/2021: ** One paper accepted by Pattern Recognition (PR).
-- **09/2020: ** One paper accepted by Neurocomputing.
+- **05/2024:** One paper accepted by ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2024.
+- **03/2024:** One paper accepted by Computers in Biology and Medicine (CBM) 2024.
+- **01/2024:** One paper accepted by IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP) 2024.
+- **07/2023:** One paper accepted by ACM International Conference on Multimedia (ACM-MM) 2023.
+- **07/2023:** One paper accepted by IEEE/CVF International Conference on Computer Vision (ICCV) 2023.
+- **02/2023:** Two papers accepted by IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2023.
+- **11/2021:** One paper accepted by International Conference on Tools with Artificial Intelligence (ICTAI) 2021.
+- **05/2021:** One paper accepted by Pattern Recognition (PR).
+- **09/2020:** One paper accepted by Neurocomputing.
 
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=599urazffi5&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
