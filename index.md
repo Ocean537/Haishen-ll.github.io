@@ -46,9 +46,9 @@ Here is **Lei Liu (HaiShen, 刘磊)**. I am a 4-th year PhD student at The Chine
 - **09/2020:** One paper accepted by Neurocomputing.
 
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=599urazffi5&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
+<!--<script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=599urazffi5&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>-->
 
-
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=OZGoITQs8Nmbi0rmn1JffCvcxGxT77UqzDbHAYMHoQ4"></script>
 
 <br>
 
