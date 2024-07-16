@@ -20,6 +20,11 @@ Lastest Update: 2023-12-02
 
 
 ## Conference Paper
+- Prior-free Balanced Replay: Uncertainty-guided Reservoir Sampling for Long-Tailed Continual Learning
+<br>**Lei Liu**, Li Liu, Yawen Cui<br>Accepted by ACMMM 2024<br>
+<br>
+
+
 - [Towards Automatic Evaluation for LLMs' Clinical Capabilities: Metric, Data, and Algorithm](https://arxiv.org/pdf/2403.16446.pdf)
 <br>**Lei Liu**, Xiaoyan Yang, Fangzhou Li, Chenfei Chi, Yue Shen, Shiwei Lyu, Ming Zhang, Xiaowei Ma, Xiangguo Lyu, Liya Ma, Zhiqiang Zhang, Wei Xue, Yiran Huang, Jinjie Gu<br>Accepted by KDD 2024<br>
 <br>
