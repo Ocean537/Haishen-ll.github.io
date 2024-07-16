@@ -35,6 +35,7 @@ Here is **Lei Liu (HaiShen, 刘磊)**. I am a 4-th year PhD student at The Chine
 ---
 
 ## News and Updates
+- **07/2024:** One paper accepted by ACM International Conference on Multimedia (ACM-MM) 2024.
 - **06/2024:** The survey paper for medical large language models is released at [arxiv](https://arxiv.org/pdf/2406.03712).
 - **05/2024:** One paper accepted by ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2024.
 - **03/2024:** One paper accepted by Computers in Biology and Medicine (CBM) 2024.
