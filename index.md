@@ -8,9 +8,7 @@ layout: page
 
 Here is **Lei Liu (HaiShen, 刘磊)**. I am a 4-th year PhD student at The Chinese Univerity of Hong Kong, Shenzhen (CUHK-SZ). My research interests include Multi-Modal Learning, Medical AI and Large Language Model. If you are interested in any aspect of me, I would love to chat and collaborate. 
 <br>
-**<font color='red'>[Highlight]</font>** I am looking for a Postdoc position to start in 2025 Spring. Contact me if any chance!
 
-<br>
 
 ---
 
@@ -18,7 +16,7 @@ Here is **Lei Liu (HaiShen, 刘磊)**. I am a 4-th year PhD student at The Chine
 
 - **Sep 2014 - June 2018:** Wuhan Univeristy of Science and Technology
 - **Sep 2020 - Now:** The Chinese Univerity of Hong Kong, Shenzhen (CUHK-SZ)
-- **Sep 2023 - Feb 2014:** Internship at Ant Group
+- **Sep 2023 - :** Internship at Ant Group
 
 <br>
 
