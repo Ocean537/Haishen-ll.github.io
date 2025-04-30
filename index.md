@@ -6,7 +6,7 @@ layout: page
 
 <!-- ---<img src="https://Haishen-ll.github.io/liulei.jpeg" class="floatpic" width="480" height="380">--->
 
-Here is **Lei Liu (HaiShen, 刘磊)**. I am a 4-th year PhD student at The Chinese Univerity of Hong Kong, Shenzhen (CUHK-SZ). My research interests include Multi-Modal Learning, Medical AI and Large Language Model. If you are interested in any aspect of me, I would love to chat and collaborate. 
+Here is **Lei Liu (HaiShen, 刘磊)**. I obtained PhD at The Chinese Univerity of Hong Kong, Shenzhen (CUHK-SZ). My research interests include Multi-Modal Learning, Medical AI and Large Language Model. If you are interested in any aspect of me, I would love to chat and collaborate. 
 <br>
 
 
@@ -15,8 +15,8 @@ Here is **Lei Liu (HaiShen, 刘磊)**. I am a 4-th year PhD student at The Chine
 ## Academic Background
 
 - **Sep 2014 - June 2018:** Wuhan Univeristy of Science and Technology
-- **Sep 2020 - Now:** The Chinese Univerity of Hong Kong, Shenzhen (CUHK-SZ)
-- **Sep 2023 - :** Internship at Ant Group
+- **Sep 2020 - Mar 2025:** The Chinese Univerity of Hong Kong, Shenzhen (CUHK-SZ)
+- **Sep 2023 - Now:** (Internship) at Ant Group
 
 <br>
 
@@ -33,6 +33,7 @@ Here is **Lei Liu (HaiShen, 刘磊)**. I am a 4-th year PhD student at The Chine
 ---
 
 ## News and Updates
+- **07/2024:** One paper accepted by ACM SIGMM International Conference on Multimedia Retrieval (ICMR) 2025.
 - **07/2024:** One paper accepted by ACM International Conference on Multimedia (ACM-MM) 2024.
 - **06/2024:** The survey paper for medical large language models is released at [arxiv](https://arxiv.org/pdf/2406.03712).
 - **05/2024:** One paper accepted by ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2024.
