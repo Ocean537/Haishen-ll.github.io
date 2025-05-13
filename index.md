@@ -6,21 +6,12 @@ layout: page
 
 <!-- ---<img src="https://Haishen-ll.github.io/liulei.jpeg" class="floatpic" width="480" height="380">--->
 
-Here is **Lei Liu (HaiShen, 刘磊)**. I obtained PhD at The Chinese Univerity of Hong Kong, Shenzhen (CUHK-SZ). My research interests include Multi-Modal Learning, Medical AI and Large Language Model. If you are interested in any aspect of me, I would love to chat and collaborate. 
+Here is **Lei Liu (HaiShen, 刘磊)**. I obtained my PhD from The Chinese Univerity of Hong Kong, Shenzhen (CUHK-SZ) then joined Ant Group with the Ant Star Award (蚂蚁星). My research interests include Multi-Modal Learning, Medical AI and Large Language Model. If you are interested in any aspect of me, I would love to chat and collaborate. 
 <br>
 
 
 ---
 
-## Academic Background
-
-- **Sep 2014 - June 2018:** Wuhan Univeristy of Science and Technology
-- **Sep 2020 - Mar 2025:** The Chinese Univerity of Hong Kong, Shenzhen (CUHK-SZ)
-- **Sep 2023 - Now:** (Internship) at Ant Group
-
-<br>
-
----
 
 ## Research Interests
 
@@ -33,6 +24,7 @@ Here is **Lei Liu (HaiShen, 刘磊)**. I obtained PhD at The Chinese Univerity o
 ---
 
 ## News and Updates
+- **05/2025:** One paper accepted by International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2025.
 - **03/2025:** One paper accepted by ACM SIGMM International Conference on Multimedia Retrieval (ICMR) 2025.
 - **07/2024:** One paper accepted by ACM International Conference on Multimedia (ACM-MM) 2024.
 - **06/2024:** The survey paper for medical large language models is released at [arxiv](https://arxiv.org/pdf/2406.03712).
