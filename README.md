@@ -1,6 +1,6 @@
-# Haishen is 海深 in Chinese ✨
+# Personal ✨
 
-Here is **Lei Liu (Haishen, 刘磊)**. Here is my personal website.
+Here is **Lei Liu**. Here is my personal website.
 
 <!-- Welcome to fork for free 🥰 -->
 
