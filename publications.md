@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 2023-12-02
+Lastest Update: 2025-09-30
 
 ## Arxiv Paper
 - [From Beginner to Expert: Modeling Medical Knowledge into General LLMs](https://Haishen-ll.github.io/file/AntGLM-Med.pdf)
