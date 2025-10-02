@@ -6,7 +6,7 @@ layout: page
 
 <!-- ---<img src="https://Haishen-ll.github.io/liulei.jpeg" class="floatpic" width="480" height="380">--->
 
-Here is **Lei Liu**. I obtained my PhD from The Chinese Univerity of Hong Kong, Shenzhen (CUHK-SZ) then joined Ant Group with the AntStar Award (蚂蚁星). Now, I am a postdoctoral researcher sponsored by Ant Group and Zhejiang University. My research interests include Medical AI and Large Language Model and Multi-Modal Learning. There are several HCs for social recruitment, welcome to join us!
+Here is **Lei Liu**. I obtained my PhD from The Chinese Univerity of Hong Kong, Shenzhen (CUHK-SZ) then joined Ant Group with the Plan A Award (蚂蚁星). Now, I am a postdoctoral researcher sponsored by Ant Group and Zhejiang University. My research interests include Medical AI and Large Language Model and Multi-Modal Learning. There are several HCs for social recruitment, welcome to join us!
 <br>
 
 
